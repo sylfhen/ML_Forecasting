@@ -5,6 +5,6 @@ In conclusion:
 The XGBoost marginally yields the best performance.
 This is decided on the R square and the MSE.
 The baseline model is effective for sales forecasting. 
-<img width="279" alt="image" src="https://github.com/user-attachments/assets/4f651e43-259e-4e7f-ade8-ef43fe0b6466" />
+<img width="179" alt="image" src="https://github.com/user-attachments/assets/4f651e43-259e-4e7f-ade8-ef43fe0b6466" />
 
 
